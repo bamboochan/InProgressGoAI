@@ -3,8 +3,6 @@ This is a Go AI
 
 DISCLAIMER: This is a work in progress. Meaning that any file can not work/not be up to date for any reason. If you wish to see the clean version, please visit my repository CleanGoAI.
 
-This work was done in collaboration by myself (Mingxi Sun), Cole Hugelmeyer, Konstantin Miagkov and Benjamin Spitz.
-
 Using two convolutional neural networks and a tree search, this program is able to play go at a considerably advanced level.
 
 Requirements: Numpy and Tensorflow need to be installed. Tested with tensorflow 1.2.0, numpy 1.13.0 and python 3.6.1. 
